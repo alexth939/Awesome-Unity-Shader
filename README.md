@@ -1,3 +1,5 @@
+# TODO: keep to learn from 8 and 14
+
 # Awesome-Unity-Shader
 这是一个关于Unity3D Shader的Rep。目前主要是自己博客专栏《【浅墨Unity3D Shader编程】》中推出的一些Shader代码的收集。
 * Shader专栏地址：[https://blog.csdn.net/zhmxy555/category_9264739.html](https://blog.csdn.net/zhmxy555/category_9264739.html)
